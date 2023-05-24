@@ -4,7 +4,7 @@
     "description": "",
     "scripts": {
         "build": "npm i && npm i express",
-        "run": "node index.js"
+        "start": "node index.js"
     },
     "repository": {
         "type": "git",
